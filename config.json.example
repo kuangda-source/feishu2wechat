@@ -1,0 +1,24 @@
+{
+  "_comment": "当前使用版本：test",
+  "test": {
+    "wechat": {
+      "app_id": "请填入你的测试公众号 APPID",
+      "app_secret": "请填入你的测试公众号密钥"
+    },
+    "webhook": "请填入你的测试飞书 webhook URL"
+  },
+  "production": {
+    "wechat": {
+      "app_id": "请填入你的正式公众号 APPID",
+      "app_secret": "请填入你的正式公众号密钥"
+    },
+    "webhook": "请填入你的正式飞书 webhook URL"
+  },
+  "feishu": {
+    "app_id": "请填入你的飞书应用 APPID",
+    "app_secret": "请填入你的飞书应用密钥"
+  },
+  "author": "RobotQu",
+  "original": true,
+  "template": "viral"
+}

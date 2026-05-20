@@ -1,0 +1,10 @@
+config.json
+config_temp.json
+wechat-output/
+pdfs/
+screenshots/
+assets/generated_cover.jpg
+*-wechat-preview.html
+__pycache__/
+*.pyc
+.DS_Store

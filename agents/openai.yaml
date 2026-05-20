@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书转公众号"
+  short_description: "将飞书文档自动排版并发布到微信公众号草稿"
+  default_prompt: "Use $feishu2wechat to turn this Feishu document link into a WeChat Official Account draft."
